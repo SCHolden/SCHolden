@@ -20,7 +20,7 @@
 
 | Project | What it does |
 |---|---|
-| **PRMS** | My business selling RAMS software. |
+| [**PRMS**](https://prms.digital) | My business selling RAMS software. |
 | **RAX** | SSO's in-house pallet racking inspection platform, still in development. Offline-first PWA built on a spatial model of every rack. |
 | **Trident** | My AI operating system: the Nexus agent platform, an HQ operator dashboard and Forge, a personal AI. |
 | **SSO Agent Teams** | Ready-made AI agent teams for Australian businesses. |
